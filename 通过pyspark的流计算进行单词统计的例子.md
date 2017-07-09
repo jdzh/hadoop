@@ -1,3 +1,11 @@
+---
+layout: post
+title:  通过pyspark的流计算进行单词统计的例子
+date:   2017-07-09 17:00:00
+categories: Spark
+tags: Spark pyspark sparkstreaming wordcount
+---
+
 __简介：这是一个以本地文件系统为源的WordCount示例文章__
 
 【[社区原文](https://community.hortonworks.com/articles/81359/pyspark-streaming-wordcount-example.html)】  
